@@ -12,7 +12,7 @@
                     <p class=" text-8xl text-white font-bold" style="font-family:'Oswald', Sans-serif">MEGAOBRAS</p>
                     <small class="uppercase text-white text-3xl">ingenieron de colombia ltda</small>
                     <div><button style="font-family:'Oswald', Sans-serif"
-                            class="bg-amber-500 pt-7 pb-7 pl-7 pr-7 text-2xl uppercase text-white font-bold">ver
+                            class="bg-blue-500 pt-7 pb-7 pl-7 pr-7 text-2xl uppercase text-white font-bold">ver
                             más</button></div>
                 </div>
             </li>
